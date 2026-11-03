@@ -1,0 +1,6 @@
+TripMind AI – Intelligent AI-Powered Travel Planning Platform
+TripMind AI is a next-generation AI-powered travel planning platform designed to simplify and personalize the entire travel planning process. Unlike traditional travel websites that require users to search separately for flights, hotels, restaurants, attractions, transportation, and travel information, TripMind AI acts as an intelligent travel assistant that automatically creates a complete, optimized, and personalized travel itinerary based on the user's preferences, budget, travel duration, and destination.
+
+The platform combines Artificial Intelligence, real-time travel data, route optimization, geospatial analysis, and social media trend analysis to generate highly efficient travel plans. It considers multiple factors such as travel distance, attraction opening hours, hotel proximity, transportation options, weather conditions, live traffic, budget constraints, and user interests to create a seamless day-by-day itinerary.
+
+TripMind AI supports solo travelers, families, couples, friends, and business travelers by providing customized recommendations that maximize experiences while minimizing travel time and unnecessary expenses.
